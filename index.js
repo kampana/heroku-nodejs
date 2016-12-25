@@ -33,7 +33,7 @@ app.get('/', function(request, response) {
 		{ 
 			response.setHeader("Access-Control-Allow-Origin", "*"); // Otherwise we'll have an access-control... error
 		    response.send(JSON.stringify(data));
-		}, 3000); // Sleep for 3 seconds just for testing the "Please wait" mechanism
+		}, 1000); // Sleep just for testing the "Please wait" mechanism
 });
 
 app.listen(app.get('port'), function() {
