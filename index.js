@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 
-// Local data in case of db failure
+// Local data, TBD getting from some remote db
 const data = [{
 	years: '2016 - Present',
 	title: 'Full Stack Developer',
