@@ -8,13 +8,13 @@ const data = [{
 	content: ['Hands on development in Java 8', 'AngularJS','ElasticSearch','SaaS development via AWS services', 'Spring', 'Hibernate over MySQL', 'C#'],
 	imageName: 'panaya' }, 
 	{
-		years: '2013-2016',
+		years: '2014-2016',
 		title: 'Team Leader',
 		content: ['Leading 6-12 team members', 'Hands on development in Java', 'AngularJS'],
 		imageName: 'ibm'
 	},
 	{
-		years: '2010-2013',
+		years: '2010-2014',
 		title: 'Team Leader',
 		content: ['Leading 4 team members worldwide', 'Hands on development in Java','GUI development in SWING'],
 		imageName: 'ibm'
