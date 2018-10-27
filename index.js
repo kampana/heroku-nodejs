@@ -4,8 +4,8 @@ var app = express();
 // Local data, TBD getting from some remote db
 const data = [{
 	years: '2016 - Present',
-	title: 'Full Stack Developer',
-	content: ['Hands on development in Java 8', 'AngularJS', 'ElasticSearch', 'SaaS development via AWS services', 'Spring', 'Hibernate over MySQL', 'C#'],
+	title: 'Team Leader',
+	content: ['Hands on development in Java 8', 'AngularJS', 'TypeScript','JS ES6', 'Redux Vanilla', 'ElasticSearch', 'SaaS development via AWS services', 'Spring', 'Hibernate over MySQL', 'C#'],
 	imageName: 'panaya'
 },
 {
