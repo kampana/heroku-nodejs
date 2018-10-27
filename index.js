@@ -5,7 +5,7 @@ var app = express();
 const data = [{
 	years: '2016 - Present',
 	title: 'Team Leader',
-	content: ['Hands on development in Java 8', 'AngularJS', 'TypeScript','JS ES6', 'Redux Vanilla', 'ElasticSearch', 'SaaS development via AWS services', 'Spring', 'Hibernate over MySQL', 'C#'],
+	content: ['Leading 4 team members', 'Hands on development in Java 8', 'AngularJS with Redux', 'TypeScript and ES6', 'ElasticSearch', 'SaaS development via AWS services', 'Spring', 'Hibernate over MySQL'],
 	imageName: 'panaya'
 },
 {
